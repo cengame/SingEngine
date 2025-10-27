@@ -1,2 +1,1 @@
-# SingEngine
-Algoritmo experimental para cálculos relativos à distância e tempo.
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cengame/SingEngine)
